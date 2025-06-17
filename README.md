@@ -1,4 +1,4 @@
-# LogBook
+# LogBook Project
 
 Transform any Git repository into an **interactive, share-ready timeline and analytics dashboard**.
 
